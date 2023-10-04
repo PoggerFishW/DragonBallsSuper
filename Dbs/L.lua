@@ -1,0 +1,1 @@
+local fart = print("hi")
